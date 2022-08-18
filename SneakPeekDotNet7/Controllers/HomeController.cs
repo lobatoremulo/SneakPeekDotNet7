@@ -10,7 +10,7 @@ namespace SneakPeekDotNet7.Controllers
         [Route("Get")]
         public string Get()
         {
-            return "String Qualquer";
+            return "String Qualquers";
         }
 
         [HttpGet]
